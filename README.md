@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Biman Bordoloi
+- 👀 I’m freelance Blender Add-on Developer
+- 🌱 I’m currently working as a Blender Add-on Developer ar graswald3d.com
